@@ -1,0 +1,6 @@
+name = "knutamregistry"
+uuid = "c59a0a09-053a-4810-b6d5-76bd653ef6cd"
+repo = "git@github.com:KnutAM/knutamregistry.git"
+description = "Knut Andreas' personal registry"
+
+[packages]
