@@ -4,3 +4,4 @@ repo = "git@github.com:KnutAM/knutamregistry.git"
 description = "Knut Andreas' personal registry"
 
 [packages]
+83aa5b51-0588-403c-85e4-434ec185aae7 = { name = "Newton", path = "N/Newton" }
