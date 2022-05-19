@@ -1,0 +1,3 @@
+name = "ConstitutiveDriver"
+uuid = "d9eb1dd9-fd0a-4339-a954-2bc895d829ff"
+repo = "git@github.com:KnutAM/ConstitutiveDriver.jl.git"
