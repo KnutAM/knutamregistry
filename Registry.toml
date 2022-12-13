@@ -7,3 +7,4 @@ description = "Knut Andreas' personal registry"
 952767cb-328b-455d-a479-bf972ef6c2fa = { name = "MaterialModelCalibration", path = "M/MaterialModelCalibration" }
 cccc85d9-b314-494a-8960-1c57145c81d1 = { name = "PNNMaterial", path = "P/PNNMaterial" }
 d9eb1dd9-fd0a-4339-a954-2bc895d829ff = { name = "ConstitutiveDriver", path = "C/ConstitutiveDriver" }
+f0450e97-3c57-4e4a-8020-cfce828c3bbe = { name = "FerriteNeumann", path = "F/FerriteNeumann" }
