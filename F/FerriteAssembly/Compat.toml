@@ -1,0 +1,4 @@
+[0]
+Ferrite = "0.3"
+ForwardDiff = "0.10"
+julia = "1.7.0-1"
