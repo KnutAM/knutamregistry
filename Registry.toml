@@ -6,6 +6,7 @@ description = "Knut Andreas' personal registry"
 [packages]
 79314e9b-2e6f-4d6d-a72d-515aa2604984 = { name = "FESolvers", path = "F/FESolvers" }
 952767cb-328b-455d-a479-bf972ef6c2fa = { name = "MaterialModelCalibration", path = "M/MaterialModelCalibration" }
+af893363-701d-44dc-8b1e-d9a2c129bfc9 = { name = "MaterialModelsBase", path = "M/MaterialModelsBase" }
 cccc85d9-b314-494a-8960-1c57145c81d1 = { name = "PNNMaterial", path = "P/PNNMaterial" }
 d9eb1dd9-fd0a-4339-a954-2bc895d829ff = { name = "ConstitutiveDriver", path = "C/ConstitutiveDriver" }
 e7aa30d1-f8c7-4c87-b6be-97e395ec50ad = { name = "FerriteProblems", path = "F/FerriteProblems" }
