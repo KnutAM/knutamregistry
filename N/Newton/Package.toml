@@ -1,0 +1,3 @@
+name = "Newton"
+uuid = "83aa5b51-0588-403c-85e4-434ec185aae7"
+repo = "https://github.com/KnutAM/Newton.jl.git"
