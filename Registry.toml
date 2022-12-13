@@ -10,4 +10,5 @@ description = "Knut Andreas' personal registry"
 af893363-701d-44dc-8b1e-d9a2c129bfc9 = { name = "MaterialModelsBase", path = "M/MaterialModelsBase" }
 cccc85d9-b314-494a-8960-1c57145c81d1 = { name = "PNNMaterial", path = "P/PNNMaterial" }
 d9eb1dd9-fd0a-4339-a954-2bc895d829ff = { name = "ConstitutiveDriver", path = "C/ConstitutiveDriver" }
+f0450e97-3c57-4e4a-8020-cfce828c3bbe = { name = "FerriteNeumann", path = "F/FerriteNeumann" }
 fd21fc07-c509-4fe1-9468-19963fd5935d = { name = "FerriteAssembly", path = "F/FerriteAssembly" }
