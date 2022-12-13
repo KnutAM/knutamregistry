@@ -3,6 +3,11 @@
 Registry of my ongoing projects for simplified management.
 
 ## Add this registry
+Using `https` (if only public repos will be used)
+```julia
+] registry add https://github.com/KnutAM/knutamregistry.git
+```
+Using `ssh` (if also private repos are used)
 ```julia
 ] registry add git@github.com:KnutAM/knutamregistry.git
 ```
