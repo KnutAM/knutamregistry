@@ -4,6 +4,7 @@ repo = "git@github.com:KnutAM/knutamregistry.git"
 description = "Knut Andreas' personal registry"
 
 [packages]
+0d3df087-75fa-4f06-888e-118033dd1b70 = { name = "FE2Materials", path = "F/FE2Materials" }
 4b8708f2-a3c1-4548-bedd-a9fc7399e47a = { name = "PorousMedia", path = "P/PorousMedia" }
 79314e9b-2e6f-4d6d-a72d-515aa2604984 = { name = "FESolvers", path = "F/FESolvers" }
 83aa5b51-0588-403c-85e4-434ec185aae7 = { name = "Newton", path = "N/Newton" }
