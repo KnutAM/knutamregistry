@@ -4,3 +4,6 @@ ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
 
 ["0.3-0"]
 MaterialModelsBase = "af893363-701d-44dc-8b1e-d9a2c129bfc9"
+
+["0.3.3-0"]
+ThreadPinning = "811555cd-349b-4f26-b7bc-1f208b848042"
