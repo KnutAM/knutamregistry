@@ -6,3 +6,6 @@ julia = "1"
 
 ["0-0.1.0"]
 FerriteAssembly = "0.1"
+
+["0.2-0"]
+FerriteAssembly = "0.3"
