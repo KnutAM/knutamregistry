@@ -11,6 +11,7 @@ description = "Knut Andreas' personal registry"
 952767cb-328b-455d-a479-bf972ef6c2fa = { name = "MaterialModelCalibration", path = "M/MaterialModelCalibration" }
 9f696fae-cea5-48c9-9654-130ac15c79c7 = { name = "EquationDiscovery", path = "E/EquationDiscovery" }
 af893363-701d-44dc-8b1e-d9a2c129bfc9 = { name = "MaterialModelsBase", path = "M/MaterialModelsBase" }
+b3282f9b-607f-4337-ab95-e5488ab5652c = { name = "MechanicalMaterialModels", path = "M/MechanicalMaterialModels" }
 cccc85d9-b314-494a-8960-1c57145c81d1 = { name = "PNNMaterial", path = "P/PNNMaterial" }
 d9eb1dd9-fd0a-4339-a954-2bc895d829ff = { name = "ConstitutiveDriver", path = "C/ConstitutiveDriver" }
 dc10c695-e18c-49e2-887a-ef9f22cfa888 = { name = "EduMaterialModels", path = "E/EduMaterialModels" }

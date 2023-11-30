@@ -1,0 +1,3 @@
+name = "MechanicalMaterialModels"
+uuid = "b3282f9b-607f-4337-ab95-e5488ab5652c"
+repo = "git@github.com:KnutAM/MechanicalMaterialModels.jl.git"
