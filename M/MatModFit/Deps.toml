@@ -1,0 +1,11 @@
+[0]
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+HDF5 = "f67ccb44-e63f-5c2f-98bd-6dc0ccc4ba2f"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+MaterialModelsBase = "af893363-701d-44dc-8b1e-d9a2c129bfc9"
+MechanicalMaterialModels = "b3282f9b-607f-4337-ab95-e5488ab5652c"
+Optimisers = "3bd65402-5787-11e9-1adc-39752487f4e2"
+ProgressLogging = "33c8b6b6-d38a-422a-b730-caa89a2f386c"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+Tensors = "48a634ad-e948-5137-8d70-aa71f2a747f4"
