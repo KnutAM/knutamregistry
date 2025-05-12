@@ -17,7 +17,7 @@ After adding the registry as described above (once on your computer),
 you can use the packages in this registry as if they were in the 
 General registry. For example,
 ```julia
-] add FerriteProblems
+] add FerriteAssembly
 ```
 
 ## Add a package
@@ -43,3 +43,12 @@ register(MyPackage, registry="knutamregistry")
 The standard way to update a package, is to use the method described above when adding a package. 
 However, this requires to increment the version number. If this is not desired (for some reason),
 delete the entry under [packages] in `Registry.toml` along with the corresponding folder. Then add again
+
+## SSH keys
+Currently (2025-05-12), the best way to generate ssh keys that works with both julia and github seems to be
+```
+ssh-keygen -t ecdsa -C "<your email address>"
+```
+and adding `SSH_PUB_KEY_PATH` and `SSH_KEY_PATH` to the environment,
+either in bashrc/zshrc, or via `startup.jl`.
+Based on this [post](https://discourse.julialang.org/t/local-registry-rsa-key-problem/78188/5)
