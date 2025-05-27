@@ -1,4 +1,6 @@
 [0]
 ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+
+["0 - 0.2.2"]
 Requires = "ae029012-a4dd-5104-9daa-d747884805df"
